@@ -1,0 +1,2 @@
+W momencie gdy u¿yjemy modyfikatora 'new' to metoda traci zwi¹zek z metod¹ w klasie bazowej. 
+Gdy u¿yjemy modyfikatora 'override' przy definiowaniu metody, to bêdzie ona mia³a zwi¹zek z klas¹ bazow¹.
